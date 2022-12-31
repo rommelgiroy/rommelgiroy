@@ -1,6 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/ed/9f/43/ed9f43fe786ab88dff91053eb2f60ba6.gif)](https://rommelgiroy.io)
+[![MasterHead](https://www.trio.dev/hubfs/C%23%20folder-1.jpg)](https://rommelgiroy.io)
 <h1 align="center">Hi 👋, I'm Rommel Giroy</h1>
-<h3 align="center">A passionate Software Developer from Philippines</h3>
+<h3 align="center">A passionate Software Developer from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rommelgiroy&label=Profile%20views&color=0e75b6&style=flat" alt="rommelgiroy" /> </p>
